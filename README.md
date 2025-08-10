@@ -65,13 +65,3 @@ Players: Player1, Player2, punti: 450
 
 - Python 3.x  
 - Nessuna libreria esterna necessaria (usa solo `json`)
-
----
-
-## 💡 Suggerimenti
-
-- Ideale per calcolare punteggi in tornei o partite competitive.  
-- Puoi personalizzare i pesi per adattare il calcolo alle tue esigenze.  
-- Assicurati che il formato JSON estratto da `scrap_coral_stats.js` sia corretto e compatibile.
-
----
